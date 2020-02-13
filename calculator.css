@@ -1,6 +1,6 @@
 .calculator{
   width: 500px;
-  min-height: 50vh;
+  height:auto;
   margin:50px auto;
   display: flex;
   flex-direction: column;
